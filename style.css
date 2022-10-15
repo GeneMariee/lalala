@@ -1,0 +1,15 @@
+p{
+    color: white;
+    font-style: italic;
+}
+
+button{
+    display: block;
+    margin-left: 70ch;
+    margin-top: 20px;
+}
+
+h1{
+    text-align: center;
+    display: flex;
+}
